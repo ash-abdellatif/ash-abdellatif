@@ -28,3 +28,4 @@
     </p>
   </div>
  
+[![GitLab Contributor Stats](https://contributors.gitlab.com/users/ash-abdellatif/banner.svg)](https://contributors.gitlab.com/users/ash-abdellatif)
